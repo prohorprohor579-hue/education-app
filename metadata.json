@@ -1,0 +1,7 @@
+{
+  "name": "Probaho Education",
+  "description": "A comprehensive education platform for Bangladesh SSC and HSC students featuring an AI Mentor, note summarizer, and personalized study planning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
