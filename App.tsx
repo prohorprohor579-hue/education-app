@@ -1,10 +1,10 @@
 
 import React, { useState, useEffect } from 'react';
-import Sidebar from './components/Sidebar';
-import Header from './components/Header';
-import Dashboard from './components/Dashboard';
-import AIChat from './components/AIChat';
-import NoteSummarizer from './components/NoteSummarizer';
+import Sidebar from './Sidebar';
+import Header from './Header';
+import Dashboard from './Dashboard';
+import AIChat from './AIChat';
+import NoteSummarizer from './NoteSummarizer';
 import { View } from './types';
 
 const App: React.FC = () => {
